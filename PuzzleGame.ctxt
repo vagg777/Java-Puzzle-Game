@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=PuzzleGame
+comment1.params=
+comment1.target=SlidePuzzleModel()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=row\ col
+comment2.target=java.lang.String\ getFace(int,\ int)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=r\ c
+comment4.target=boolean\ moveTile(int,\ int)
+comment5.params=r\ c\ rdelta\ cdelta
+comment5.target=boolean\ checkEmpty(int,\ int,\ int,\ int)
+comment6.params=r\ c
+comment6.target=boolean\ isLegalRowCol(int,\ int)
+comment7.params=r1\ c1\ r2\ c2
+comment7.target=void\ exchangeTiles(int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=boolean\ isGameOver()
+comment9.params=
+comment9.target=PuzzleGame()
+numComments=11
