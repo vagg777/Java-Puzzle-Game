@@ -3,6 +3,8 @@ This project is a fun Java Puzzle game implemented in Java language, developed u
 
 Your goal is to arrange all the numbers into correct order, starting from the number "1" on the top left and ending in the "8" in the last row and middle tile.
 
+Clicking on a tile will make it move towards the currently empty space.
+
 Every time the "New Game" button is pressed, the tiles are re-arranged in random order.
 
 On the bottom-left side of the container, users can see their moves counter.
